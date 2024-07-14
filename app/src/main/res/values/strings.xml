@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kioskT</string>
+    <string name="permission_denied">Permission denied. Exiting.</string>
+</resources>
