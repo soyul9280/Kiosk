@@ -18,5 +18,5 @@
 |메뉴 선택 기능|메뉴 추가, 삭제 기능|
 |<img width="60%" src="https://github.com/user-attachments/assets/03a81bfb-05f5-4abe-ad90-60f68e07e456">|<img width="70%" src="https://github.com/user-attachments/assets/0cf01fd6-8571-4e69-84f0-8ca1dd422444">|
 ## 후기
-- Android Studio를 처음 다뤄보았다. 
-- Heuristic Evaluation 방법론을 사용하여 어떻게 하면 사용자가 사용하기 좋은 디자인을 만들 수 있을지 고민하였다.
+- Android Studio를 처음 다뤄 layout을 나누는 법, Activity연결에 어려움이 많았지만 ,,, 
+- 어떻게 하면 사용자가 사용하기 좋을지 고민하여 Heuristic Evaluation 방법론을 이용하였다.
